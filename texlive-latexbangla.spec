@@ -1,6 +1,6 @@
 Name:		texlive-latexbangla
 Version:	55475
-Release:	1
+Release:	2
 Summary:	Enhanced LaTeX integration for Bangla
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/latexbangla
